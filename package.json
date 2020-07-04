@@ -1,6 +1,12 @@
 {
 	"name": "argv-normalize",
 	"version": "0.0.5",
+	"description": "Normalization of command line options",
+	"author": "Bartłomiej Sługocki <0@bartan0.pl>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bartan0/argv-normalize-js.git"
+	},
 	"main": "dist/index.js",
 	"scripts": {
 		"build": "webpack",
