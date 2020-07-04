@@ -27,7 +27,11 @@ export const UnexpectedArgumentError = createError('UnexpectedArgumentError',
 )
 
 
-export const normalize = (argv, opts, longopts) => {
+export const normalize = (
+	argv,
+	opts = '',
+	longopts = []
+) => {
 	const res = []
 	const optsInfo = new Map
 
