@@ -1,6 +1,6 @@
 {
 	"name": "argv-normalize",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"description": "Normalization of command line options",
 	"author": "Bartłomiej Sługocki <0@bartan0.pl>",
 	"repository": {
